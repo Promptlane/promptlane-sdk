@@ -1,0 +1,75 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Documentation
+docs/_build/
+site/
+
+# Logs
+*.log
+logs/
+
+# Local configs
+local_settings.py
+config.ini
+*.conf
+
+# API Keys and Secrets
+.env.local
+.env.*.local
+.env.test
+.env.production
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# Build artifacts
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+
+# Personal notes
+NOTES.md
+TODO.md
+CHANGELOG.local.md 
