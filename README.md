@@ -82,9 +82,6 @@ Combines the best of both worlds:
 - Read operations use direct database access for better performance
 - Write operations go through the API to ensure data validation and business logic
 
-## Documentation
-
-For complete documentation, visit [docs.promptlane.ai](https://docs.promptlane.ai).
 
 ## License
 
